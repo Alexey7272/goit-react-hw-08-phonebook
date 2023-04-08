@@ -14,6 +14,6 @@ export const NavLinkStyled = styled(NavLink)`
   font-weight: 700;
 
   &.active {
-    border-bottom: 2px solid #a5f7ff;
+    border-bottom: 2px solid red;
   }
 `;
